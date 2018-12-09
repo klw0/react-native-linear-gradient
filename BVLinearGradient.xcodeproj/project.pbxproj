@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5300F37121BDBF6C0075BDEE /* BVLinearGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = D6BF2FA320D7DC1F006672AE /* BVLinearGradientLayer.m */; };
 		64AA15111EF7F31200718508 /* BVLinearGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = EF6045ED1C4E5D290001F552 /* BVLinearGradient.m */; };
 		64AA15121EF7F31200718508 /* BVLinearGradientManager.m in Sources */ = {isa = PBXBuildFile; fileRef = EF6045EF1C4E5D290001F552 /* BVLinearGradientManager.m */; };
 		D6BF2FA420D7DC1F006672AE /* BVLinearGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = D6BF2FA320D7DC1F006672AE /* BVLinearGradientLayer.m */; };
@@ -182,8 +183,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64AA15111EF7F31200718508 /* BVLinearGradient.m in Sources */,
 				64AA15121EF7F31200718508 /* BVLinearGradientManager.m in Sources */,
+				64AA15111EF7F31200718508 /* BVLinearGradient.m in Sources */,
+				5300F37121BDBF6C0075BDEE /* BVLinearGradientLayer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
